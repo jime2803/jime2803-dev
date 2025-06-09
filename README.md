@@ -15,4 +15,4 @@
 - Node.js (soon)
 
 ## 🧩 Projects
-- [Personal Portfolio Website]([https://github.com/yourusername/portfolio](https://github.com/jime2803/Portfolio_TP.git)) – built with HTML & CSS
+- [Personal Portfolio Website](https://github.com/jime2803/Portfolio_TP.git) – built with HTML & CSS
