@@ -6,7 +6,7 @@
 🌱 I'm building real-world projects to improve my frontend and backend skills.  
 🌐 Background: 17+ years in tech procurement at IBM.  
 🗣️ Languages: English (C1), Spanish (C2), Portuguese (A2), French (A1)  
-📬 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile)
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/jimena-nora-sastre-b16a0977/)
 
 ## 🔧 Technologies I'm learning
 - JavaScript
@@ -15,4 +15,4 @@
 - Node.js (soon)
 
 ## 🧩 Projects
-- [Personal Portfolio Website](https://github.com/yourusername/portfolio) – built with HTML & CSS
+- [Personal Portfolio Website]([https://github.com/yourusername/portfolio](https://github.com/jime2803/Portfolio_TP.git)) – built with HTML & CSS
